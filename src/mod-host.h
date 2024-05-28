@@ -48,6 +48,7 @@
 
 /* Socket definitions */
 #define SOCKET_DEFAULT_PORT     5555
+#define SOLSTICE_SOCKET_DEFAULT_PORT     6668
 #define SOCKET_MSG_BUFFER_SIZE  1024
 
 /* Protocol commands definition */
